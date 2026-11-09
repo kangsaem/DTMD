@@ -1,9 +1,9 @@
 {
   "name": "DTMD Pianificatore immersioni",
   "short_name": "DTMD",
-  "id": "/scuba",
-  "start_url": "/scuba",
-  "scope": "/scuba",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#e31b3f",
   "theme_color": "#284656",
